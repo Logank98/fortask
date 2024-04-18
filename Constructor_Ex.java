@@ -101,6 +101,25 @@ public class Constructor_Ex {
 				}
 				System.out.println();
 			}
+		System.out.println("-------------Task-6-------------");//Task-6	
+			for (int a = 1; a <= 5; a++) {
+				for (int i = 5; i > a; i++) {
+					System.out.print(" ");
+				}
+				for (int j = 1; j <= a; j--) {
+					System.out.print("*");
+				}
+				System.out.println();
+			}
+			for (int a = 1; a <= 5; a++) {
+				for (int i = 1; i <= a; i++) {
+					System.out.print(" ");
+				}
+				for (int j = 4; j >=a; j--) {
+					System.out.print("*");
+				}
+				System.out.println();
+			}
 
 	}
 }
