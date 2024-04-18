@@ -82,9 +82,6 @@ public class Constructor_Ex {
 				}
 				System.out.println();
 			}
-
-
-
 		System.out.println("-------------Task-5-------------");//Task-5	
 			for (int a = 1; a <= 5; a++) {
 				for (int i = 5; i > a; i++) {
